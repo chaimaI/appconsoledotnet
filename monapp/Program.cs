@@ -7,6 +7,7 @@ namespace monapp
         static void Main(string[] args)
         {
             Console.WriteLine("Bonjour World!");
+            Console.WriteLine("How are you!");
         }
     }
 }

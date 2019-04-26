@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>monapp</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>b66a0166-d888-4556-a4d5-beac81d7c7b7</ProjectGuid>
+  <FullPath>C:\Users\chaima.salin\Desktop\COURS MasterClass\usine logiciel\appconsoledotnet\monapp\monapp.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\chaima.salin\Desktop\COURS MasterClass\usine logiciel\appconsoledotnet\.sonarqube\out\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\chaima.salin\Desktop\COURS MasterClass\usine logiciel\appconsoledotnet\monapp\bin\Debug\netcoreapp2.1\monapp.dll.RoslynCA.json|C:\Users\chaima.salin\Desktop\COURS MasterClass\usine logiciel\appconsoledotnet\monapp\bin\Debug\netcoreapp2.1\monapp.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\chaima.salin\Desktop\COURS MasterClass\usine logiciel\appconsoledotnet\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp2.1</TargetFramework>
+</ProjectInfo>
